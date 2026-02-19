@@ -1,0 +1,39 @@
+
+Institution Field Name.....
+
+A) Institution Location Info                   1) Secondary Specialty Code
+                                               2) Tertiary Specialty Code
+                                               3) Additional Specialty Code
+
+B) Location Contract Association details       1) Contract type
+                                               
+
+C) Specialty Ranking                           1) Specialty Rank
+
+
+D) Location Practiting Address                 1) Line 2
+
+
+E) Institution Location contact info           1) Telephone
+
+F) Location tier Designation info              1) Tier Designation
+
+G) Location select bundles Info                1) Bundle Name
+
+F)Location Additional contact info details     1) Fax
+
+
+
+Practitioner Field Name.....
+
+A)Practitioner General Information             1) Suffix
+
+B) Practitioner License Information            1) Licensing State
+
+C) Practitioner Contact Information            1) Practitioner Alternate Telephone
+
+D) Practitioner Additional Contact Information 1) E-mail address
+
+E) Practitioner Specialty Information          1) Specialty code
+
+F) Practitioner Role Location Information      1) From Date    
